@@ -1,0 +1,4 @@
+Number of instructions executed = 48
+Number of cycles taken = 119
+Number of times OF got stalled = 22
+Number of times wrong path was taken = 7

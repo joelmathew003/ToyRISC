@@ -1,0 +1,50 @@
+Cache size L1d = 1024, Cache size L1i = 4
+Number of instructions executed = 48
+Number of cycles taken = 2510
+Throughput(instructions per cycle) = 0.019123506
+
+Cache size L1d = 1024, Cache size L1i = 8
+Number of instructions executed = 48
+Number of cycles taken = 2566
+Throughput(instructions per cycle) = 0.018706158
+
+Cache size L1d = 1024, Cache size L1i = 32
+Number of instructions executed = 48
+Number of cycles taken = 2644
+Throughput(instructions per cycle) = 0.018154312
+
+Cache size L1d = 1024, Cache size L1i = 128
+Number of instructions executed = 48
+Number of cycles taken = 1360
+Throughput(instructions per cycle) = 0.03529412
+
+Cache size L1d = 1024, Cache size L1i = 1024
+Number of instructions executed = 48
+Number of cycles taken = 1566
+Throughput(instructions per cycle) = 0.03065134
+
+Cache size L1d = 4, Cache size L1i = 1024
+Number of instructions executed = 48
+Number of cycles taken = 1544
+Throughput(instructions per cycle) = 0.031088082
+
+Cache size L1d = 8, Cache size L1i = 1024
+Number of instructions executed = 48
+Number of cycles taken = 1546
+Throughput(instructions per cycle) = 0.031047866
+
+Cache size L1d = 32, Cache size L1i = 1024
+Number of instructions executed = 48
+Number of cycles taken = 1550
+Throughput(instructions per cycle) = 0.030967742
+
+Cache size L1d = 128, Cache size L1i = 1024
+Number of instructions executed = 48
+Number of cycles taken = 1558
+Throughput(instructions per cycle) = 0.03080873
+
+Cache size L1d = 1024, Cache size L1i = 1024
+Number of instructions executed = 48
+Number of cycles taken = 1566
+Throughput(instructions per cycle) = 0.03065134
+
